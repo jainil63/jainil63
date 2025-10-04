@@ -18,6 +18,7 @@ Here you’ll find my experiments, ideas, and code.
 
 ![Jainil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainil63&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainil63&theme=tokyonight)
 <!--
 **jainil63/jainil63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
